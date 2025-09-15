@@ -35,16 +35,12 @@
 ## GitHub Stats & Animations
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ragibavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ragibavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="66%"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ragibavi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ragibavi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="33%"/>
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragibavi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%"/>
-</p>
 
 ---
 

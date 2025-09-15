@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ragibavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="57%"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ragibavi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ragibavi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="41.5%"/>
 </p>
 
 

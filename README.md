@@ -11,9 +11,9 @@
 ---
 
 ## About Me
-- 💻 Fullstack Developer focused on **Laravel, Go, Vue.js**
-- 🌱 Currently learning **Cloud, Microservices, AI**
-- 🎨 UI/UX enthusiast & clean code advocate
+- 💻 Fullstack Engineer focused on **Laravel, Go, Vue.js**
+- 🌱 **Cloud, Microservices, AI** Enthusiast
+- 🎨 Clean code advocate
 - 🏆 Open source contributor
 
 ---

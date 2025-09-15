@@ -40,7 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragibavi&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://profile-counter.glitch.me/ragibavi/count.svg" alt="Visitor Count"/>
 </p>
 
 ---

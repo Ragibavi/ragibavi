@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - 💻 Fullstack Developer focused on **Laravel, Go, Vue.js**
 - 🌱 Currently learning **Cloud, Microservices, AI**
 - 🎨 UI/UX enthusiast & clean code advocate
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 <p align="left">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats & Animations
+## GitHub Stats & Animations
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragibavi&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibavi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ragibavi" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>

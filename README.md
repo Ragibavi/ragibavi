@@ -34,8 +34,8 @@
 
 ## GitHub Stats & Animations
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragibavi&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragibavi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ragibavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ragibavi&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </p>
 
 <p align="center">
